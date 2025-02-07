@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-**Dhanushmathan/dhanushmathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there 👋
 
 I'm a junior web developer . I like to work with NodeJS and Python. I'm open-source development enthusiast.
