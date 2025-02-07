@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hii there 👋
 
 I'm a frontend developer with a strong passion for building engaging and user-friendly web applications. Skilled in React, JavaScript, and Tailwind CSS, I enjoy creating seamless digital experiences. Always eager to learn and collaborate on exciting projects!  
 
